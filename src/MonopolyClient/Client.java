@@ -33,6 +33,7 @@ public class Client extends Thread {
 	private String[] pawnNames;
 	private int confirmedPlayers;
 	private String selectedPawn;
+
 	private int numberOfPlayers;
 	private boolean serverUp;
 	private ClientPanel clientPanel;
